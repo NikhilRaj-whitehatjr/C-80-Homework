@@ -1,0 +1,21 @@
+body
+{
+	background-color: coral;
+}
+
+
+
+
+
+
+#div_paragraph_1 {
+    width: 49%;
+}
+#div_paragraph_2 {
+    width: 49%;
+}
+#showPara1, #showPara2 {
+    width: 100%;
+    margin: 10px;
+}
+
